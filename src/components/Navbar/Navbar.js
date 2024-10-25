@@ -4,7 +4,8 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark sticky-top">
       <div className="container">
-        <a className="navbar-brand" href="#">
+        {/* Update href to link to a real section or valid URL */}
+        <a className="navbar-brand" href="#home">
           <img
             src="images/company-logo.jpg"
             alt="Ayurveda Modern"

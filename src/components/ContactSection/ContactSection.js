@@ -42,6 +42,7 @@ function ContactSection() {
                   <div className="card">
                     <iframe
                       src={location.mapSrc}
+                      title={`Map of ${location.city}`}
                       width="100%"
                       height="200"
                       style={{ border: 0 }}
