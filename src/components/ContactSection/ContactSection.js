@@ -10,25 +10,28 @@ const locations = [
   },
   {
     name: "Dr. Bama Spine Care",
-    address: "XIII/136, Near Vallakuruz, Perumpilly, Mulanthuruthy 682314, Ernakulam.",
+    address:
+      "XIII/136, Near Vallakuruz, Perumpilly, Mulanthuruthy 682314, Ernakulam.",
     mapSrc:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3922.834619470712!2d76.25663931583436!3d9.80507269296163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b08753afb9396bb%3A0x9a96e043a05ef2ba!2sDr.%20Bama%20Spine%20Care!5e0!3m2!1sen!2sin!4v1698257256706!5m2!1sen!2sin",
     phone: "+91 70120 88841, +91 99463 53204, +91 75980 67363",
   },
   {
-    name: "Dr Bama Spine Care",
-    address: "4th Floor, SG Electronica, Mahakavi Vailoppilli Rd, Ponnurunni, Vyttila, Kochi, Ernakulam, Kerala 682019.",
+    name: "Dr. Bama Spine Care",
+    address:
+      "4th Floor, SG Electronica, Mahakavi Vailoppilli Rd, Ponnurunni, Vyttila, Kochi, Ernakulam, Kerala 682019.", // You can update this if necessary
     mapSrc:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3911.9882955094796!2d76.30331441504717!3d9.99223429056399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b087315a35f7389%3A0x8c0a3c5a56189a2f!2sSG%20Electronica!5e0!3m2!1sen!2sin!4v1698257393701!5m2!1sen!2sin",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31433.175573396573!2d76.24839284039943!3d10.00471837969914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b08730014c2c6fb%3A0x155180e9381ee61a!2sDr.%20Bama%20Spine%20Care!5e0!3m2!1sen!2sin!4v1730039859255!5m2!1sen!2sin",
     phone: "+91 99463 53204, +91 75980 67363",
   },
   {
     name: "Dr. Bama Spine Care",
-    address: "24, Ramvilas Nagar, Behind Leela Nursing Home, NGO B Colony, Tirunelveli 627007.",
+    address:
+      "24, Ramvilas Nagar, Behind Leela Nursing Home, NGO B Colony, Tirunelveli 627007.",
     mapSrc:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3102.7282361703245!2d77.72791861569564!3d8.6950143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b04126ec372d073%3A0x3d5c94ffc7f92647!2sLeela%20Clinic!5e0!3m2!1sen!2sin!4v1698257393701!5m2!1sen!2sin",
     phone: "+91 99463 53204, +91 75980 67363",
-  }
+  },
 ];
 
 function ContactSection() {
