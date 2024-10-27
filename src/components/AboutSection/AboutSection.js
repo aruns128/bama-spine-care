@@ -2,7 +2,7 @@ import React from "react";
 
 function AboutSection() {
   return (
-    <section id="about" className="section min-height py-5">
+    <section id="about" className="section min-height pt-10 pb-5">
       <div className="container">
         <h2 className="text-center mb-4">About Us</h2>
         <p className="text-center">

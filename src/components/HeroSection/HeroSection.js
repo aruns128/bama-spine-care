@@ -35,7 +35,10 @@ function HeroSection() {
             Experience comprehensive care and modern treatment solutions for
             your spine health.
           </p>
-          <a href="#services" className="btn btn-primary">
+          <a
+            href="#services"
+            className="btn btn-primary mt-4 px-2 py-1"
+          >
             Explore Our Services
           </a>
         </div>
